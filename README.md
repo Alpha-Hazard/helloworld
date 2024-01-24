@@ -1,2 +1,2 @@
 # helloworld
-Exercícios Cubos
+Exercício proposto. DDS 16.
